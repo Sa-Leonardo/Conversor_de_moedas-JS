@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 100px;
+  max-width: 100%;
+  text-align: center;
+  background-color: rgb(40, 75, 75);
+}
+
+label,
+select,
+input {
+  margin: 10px 0;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#result {
+  margin-bottom: 200px;
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#currencyForm {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  display: inline-flex;
+}
+
+#bot {
+  background-color: green ;
+}
